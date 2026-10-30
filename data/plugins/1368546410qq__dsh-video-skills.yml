@@ -1,0 +1,6 @@
+url: https://github.com/1368546410qq/dsh-video-skills
+name: 1368546410qq/dsh-video-skills
+category: skill
+description:
+  en: 'Browses the awesome-claude-video-skills catalog inside DSH settings and installs the skill you pick into ~/.claude/skills or ~/.dsh/skills: it downloads that repository archive and copies the skill directory, and no code from the repository is executed.'
+  zh: '在 DSH 设置里浏览 awesome-claude-video-skills 目录，把选中的技能装进 ~/.claude/skills 或 ~/.dsh/skills：下载该仓库的归档并复制技能目录，不执行仓库里的任何代码。'
